@@ -1,0 +1,62 @@
+body {
+    background-image: linear-gradient(to right, rgb(126, 126, 126) , rgb(255, 255, 255));
+  }
+
+  .trans-white-bg-admin {
+    background-color: rgba(218, 213, 213, 0.8);
+    border-radius: 20px;
+  }
+  
+  .center-row {
+    position: relative;
+    top: 2rem; left: 2rem;
+    font-size: larger;
+    font-weight: 400;
+  }
+  
+  h1 {
+    font-family: 'Dancing Script', cursive, sans-serif;
+    margin: 30px;
+    font-weight: 600;
+    font-size: 5rem;
+    text-align: center;
+  }
+  
+  h3 {
+    font-family: 'Dancing Script', cursive, sans-serif;
+    margin: 30px;
+    font-weight: 600;
+    font-size: 5rem;
+    text-align: center;
+  }
+
+  label {
+    width: 30%;
+  }
+  
+  input {
+    margin: 5px;
+    width: 50%;
+    border-radius: 10px;
+    border: 1px solid grey;
+  }
+  
+  ul {
+    list-style: circle;
+  }
+  
+  li {
+    margin: 10px;
+  }
+
+  .container {
+    padding: 1rem;
+    text-align: center;
+  }
+
+  .text {
+      font-family: 'Dancing script', sans-serif;
+      font-weight: 600;
+      font-size: larger;
+      margin-top: -1rem;
+  }
